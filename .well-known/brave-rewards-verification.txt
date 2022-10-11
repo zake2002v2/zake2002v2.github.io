@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: zake2002v2.github.io
+Token: ca0ca33abd723cb499b1490f12aad06c831e8b53e59c1e647a775074db3c76f7
